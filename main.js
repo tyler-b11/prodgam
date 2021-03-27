@@ -1,4 +1,4 @@
 var product = 0;
-function cookieClick(number){
+function stockclick(number){
     product = product + number;
 };
