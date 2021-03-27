@@ -5,7 +5,7 @@
 </head>
 <body>
 <button type="button">Click Me!</button>
-  onClick="stockclick"
+  onClick="stockclick(1)"
 <script type="text/javascript" src="main.js"></script>
 </body>
 </html>
